@@ -1,0 +1,41 @@
+.country {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.time {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.dateT {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.temperature {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+}
+
+.weather-feature {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.weather-feels {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
